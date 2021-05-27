@@ -1,0 +1,1 @@
+add lucene libraries to the project and run luceneprj.java
